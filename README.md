@@ -25,3 +25,4 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+New string for HW02-git-02-base
